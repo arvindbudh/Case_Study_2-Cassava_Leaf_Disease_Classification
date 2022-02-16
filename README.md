@@ -1,5 +1,5 @@
-# Case_Study_2-Cassava_Leaf_Disease_Classification
-Case_Study_2/Cassava_Leaf_Disease_Classification
+# Case_Study_3-Cassava_Leaf_Disease_Classification
+Case_Study_3/Cassava_Leaf_Disease_Classification
 This case study is on the Kaggle competition "Cassava Leaf Disease Classification" .Identify the type of disease present in Cassava Leaf image.
 
 This is Computer Vision Problem where we have to try different Computer Vision models. Then design architecture to ensemble them.
