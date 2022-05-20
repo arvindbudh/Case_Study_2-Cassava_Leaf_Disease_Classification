@@ -21,3 +21,10 @@ label_num_to_disease_map.json : The mapping between each disease code and the re
 image_id : the image file name.
 
 label : the ID code for the disease.
+
+![Project_3_Data_Screenshot](https://user-images.githubusercontent.com/53327139/169530026-43d303e6-d12c-4868-9f13-5f073058008c.png)
+
+
+**Sample Cassava Image:**
+
+![2216849948](https://user-images.githubusercontent.com/53327139/169530062-ba29e7f7-c7e2-40b7-9218-1c8042de5e75.jpg)
